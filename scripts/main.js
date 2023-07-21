@@ -85,10 +85,10 @@ async function getInputValue() {
     links: () => {
       trueValue(value);
       createText(
-        "<a href='https://www.github.com/gempitarizki' target='_blank'><i class='fab fa-github white'></i> github.com/gempitarizki</a>"
+        "<a href='https://www.github.com/gempitarizki' target='_blank'><i class='fab fa-github white'></i> github</a>"
       );
       createText(
-        "<a href='https://www.linkedin.com/in/gempita-rizki-ramadhan-92b077161/' target='_blank'><i class='fab fa-linkedin-in white'></i> linkedin.com/in/gempita</a>"
+        "<a href='https://www.linkedin.com/in/gempita-rizki-ramadhan-92b077161/' target='_blank'><i class='fab fa-linkedin-in white'></i> linkedin</a>"
       );
       createText(
         "<a href='gempitarizki6@gmail.com' target='_blank'><i class='fa fa-envelope white'></i> gempitarizki6@gmail.com</a>"
